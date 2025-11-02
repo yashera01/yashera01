@@ -7,7 +7,7 @@
   <li>Passionate about <b>DSA, System Design and & Problem-Solving</b></li>
   <li>Open to collaborating on exciting tech projects</li>
   <li>Continuously learning & improving</li>
-  <li>How to reach me: <a href = "yashstotale@gmail.com">yashstotale@gmail.com</a></li>
+  <li>How to reach me: <a href="mailto:yashstotale@gmail.com">yashstotale@gmail.com</a></li>
   <li>Contact me : https://yashera01.github.io/my-website/</li>
 </ul>
 
