@@ -1,9 +1,12 @@
 
 ### Hi there... 
 ### 👋 I am @yashera01
-### 🔭 I’m interested in coding
-### 🌱 I’m currently pursuing B.Tech
-### 📫 How to reach me: yashtotale95@gmail.com
+### 💻 Associate Software Engineer in the FinTech domain
+### 🔭 I’m interested in Coding
+### 🧠 Passionate about DSA, System Design and & Problem-Solving
+### 🤝 Open to collaborating on exciting tech projects  
+### 📚 Continuously learning & improving
+### 📫 How to reach me: yashstotale@gmail.com
 ### 💬 Contact me : https://yashera01.github.io/my-website/ 
 <!--
 **yashera01/yashera01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
